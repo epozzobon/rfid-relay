@@ -1,0 +1,4 @@
+[submodule "chameleon"]
+    path = chameleon
+    url = git@github.com:epozzobon/ChameleonMini.git
+    branch = Proxy14443A
